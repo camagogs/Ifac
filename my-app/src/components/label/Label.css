@@ -1,0 +1,18 @@
+.label{
+    font-family: sans-serif;
+    font-size: 10pt;
+    color:#357; 
+
+}
+
+.label-regular{
+    font-family: sans-serif;
+    font-size: 100px;
+    color:#111; 
+}
+
+.label-title{
+    font-family: sans-serif;
+    font-size: 100px;
+    color:#111;
+}
